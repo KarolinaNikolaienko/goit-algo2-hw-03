@@ -1,7 +1,7 @@
 # Algorithms 2 Homework 3
 Task 1
 
-![Figure_1.png](../../Desktop/Figure_1.png)
+![Figure_1.png](Figure_1.png)
 
 Результат:
 
